@@ -1,0 +1,2 @@
+pandas==2.2.3
+prettytable==3.12.0
